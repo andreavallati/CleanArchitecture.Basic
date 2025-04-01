@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Basic.Api", "CleanArchitecture.Basic.Api\CleanArchitecture.Basic.Api.csproj", "{5B23D046-7F52-483D-A6A3-A7D21CE3BFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Basic.Client", "CleanArchitecture.Basic.Client\CleanArchitecture.Basic.Client.csproj", "{CC8E4CAE-FDC1-4324-AE9D-1117BBD658E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B23D046-7F52-483D-A6A3-A7D21CE3BFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B23D046-7F52-483D-A6A3-A7D21CE3BFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B23D046-7F52-483D-A6A3-A7D21CE3BFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B23D046-7F52-483D-A6A3-A7D21CE3BFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8E4CAE-FDC1-4324-AE9D-1117BBD658E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8E4CAE-FDC1-4324-AE9D-1117BBD658E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8E4CAE-FDC1-4324-AE9D-1117BBD658E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8E4CAE-FDC1-4324-AE9D-1117BBD658E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F71A410A-FEE5-4BAB-A749-9A7DF4352868}
+	EndGlobalSection
+EndGlobal

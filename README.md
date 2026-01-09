@@ -3,6 +3,8 @@
 ## Overview
 CleanArchitecutre.Basic is a basic implementation of the Clean Architecture principles in a .NET application. It consists of an API and a client application, structured to ensure maintainability, scalability, and testability.
 
+---
+
 ## Features
 - Follows Clean Architecture principles
 - Modular structure with clear separation of concerns
@@ -10,11 +12,15 @@ CleanArchitecutre.Basic is a basic implementation of the Clean Architecture prin
 - Client application using MVVM pattern
 - Dependency injection for service management
 
+---
+
 ## Technologies Used
 - .NET Core
 - Entity Framework Core
 - ASP.NET Core Web API
 - WPF with MVVM Pattern for Client
+
+---
 
 ## Project Structure
 ```
@@ -35,12 +41,16 @@ CleanArchitecture.Basic
 │   ├── Presentation                           # Views and ViewModels
 ```
 
+---
+
 ## API Endpoints
 | Method | Endpoint       | Description       |
 |--------|----------------|-------------------|
 | GET    | /products      | Get all products  |
 | GET    | /products/{id} | Get product by ID |
 | POST   | /products      | Add a product     |
+
+---
 
 ## Installation
 ### Prerequisites
@@ -68,3 +78,11 @@ CleanArchitecture.Basic
    dotnet run --project CleanArchitecture.Basic.Api
    ```
 2. Run the client application in Visual Studio.
+
+---
+
+<div align="center">
+
+**Happy Coding!**
+
+</div>
